@@ -5,7 +5,7 @@
 2. How to use flexbox
 
 ### Live Link
-[Home](https://letsbuildbettertomorrow.netlify.app/)
+[Home](https://nursery06.netlify.app/)
 
 ![LCO](https://img.shields.io/badge/Ineuron-LCO-blue)
 
